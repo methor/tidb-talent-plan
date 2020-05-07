@@ -1,2 +1,4 @@
+github.com/liudanking/gmmpool v0.0.0-20180301100533-4170912ede23 h1:cCC53OIHF9p8s6i7Er6i6tTazSuluhKhBWuYnb7Fv6o=
+github.com/liudanking/gmmpool v0.0.0-20180301100533-4170912ede23/go.mod h1:vv/JcDhmKYnSTgEj7F3Hgc54cjH4Sq1GeU9CHWFDaEQ=
 github.com/pingcap/check v0.0.0-20190102082844-67f458068fc8 h1:USx2/E1bX46VG32FIw034Au6seQ2fY9NEILmNh/UlQg=
 github.com/pingcap/check v0.0.0-20190102082844-67f458068fc8/go.mod h1:B1+S9LNcuMyLH/4HMTViQOJevkGiik3wW2AN9zb2fNQ=
